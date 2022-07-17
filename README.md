@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hasanshanto
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning python
+- 🌱 I’m currently practicing machine learning libraries
 - 💞️ I’m looking to collaborate on deep learning using python
 - 📫 How to reach me hasanshantu@gmail.com
 
